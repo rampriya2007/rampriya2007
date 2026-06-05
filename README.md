@@ -9,11 +9,11 @@
 
 ### 👩‍💻 About Me
 - 🎓 **B.Sc CS (AI)** — Vellalar College for Women, Tamil Nadu
-- 🔥 **GSSoC 2026** — Rank #590, Top 2% among 41,016 participants | 4 PRs merged
+- 🔥 **GSSoC 2026** — Rank #590, Top 2% among 41,016 participants | 6 PRs merged
 - 🌐 **Google Student Ambassador 2026** — Gemini Program
 - 💼 **Co-founder & Backend Developer** — TechTriplex
 - 🌱 Currently mastering **Java + Spring Boot + React.js**
-- 🤝 Freelance digital services for local businesses in Tiruppur/Kangayam
+- 🤝 Freelance digital services for local businesses in Tiruppur/Coimbatore/Erode
 - 📍 Tiruppur, Tamil Nadu, India
 
 ---
@@ -25,7 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -37,6 +36,8 @@
 | [Eventra](https://github.com/SandeepVashishtha/Eventra) | Fixed placeholder href="#" links across 3 components | +92 |
 | [Eventra](https://github.com/SandeepVashishtha/Eventra) | Fixed event filter showing wrong status | +74 |
 | [Eventra](https://github.com/SandeepVashishtha/Eventra) | Fixed chatbot mobile viewport overflow | +74 |
+| [Eventra](https://github.com/SandeepVashishtha/Eventra) | Added Feature/theme toggle and improve UI consistency across components | +94 |
+| [Eventra](https://github.com/SandeepVashishtha/Eventra) | fixed Allow single-character last names and improve validation | +156 |
 
 **GSSoC 2026 — Rank #590 | Top 2% | 332+ contribution points**
 
