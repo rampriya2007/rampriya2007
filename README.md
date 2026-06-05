@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rampriya2007&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampriya2007&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 🏆 Achievements
 - 🥇 GSSoC 2026 — Top 2% among 41,016 participants
 - 🌟 Google Student Ambassador 2026 (Gemini Program)
