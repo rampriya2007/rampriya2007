@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rampriya S</h1>
-<h3 align="center">Full Stack Developer | CS (AI) Student | Google Student Ambassador 2026</h3>
+<h3 align="center">Full Stack Developer | CS (AI) Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Backend;React.js+Frontend;GSSoC+2026+%7C+Top+2%25+%7C+Rank+%23590;Google+Student+Ambassador+2026;Open+Source+Contributor" alt="Typing SVG" />
@@ -11,9 +11,10 @@
 - 🎓 **B.Sc CS (AI)** — Vellalar College for Women, Tamil Nadu
 - 🔥 **GSSoC 2026** — Rank #590, Top 2% among 41,016 participants | 6 PRs merged
 - 🌐 **Google Student Ambassador 2026** — Gemini Program
-- 💼 **Co-founder & Backend Developer** — TechTriplex
+- 💼 **Co-founder & Software Developer** — TechTriplex
+- ☁️ **AWS Student Builder Group Leader** — Vellalar College for Women
 - 🌱 Currently mastering **Java + Spring Boot + React.js**
-- 🤝 Freelance digital services for local businesses in Tiruppur/Coimbatore/Erode
+- 🤝 Freelance digital services for local businesses
 - 📍 Tiruppur, Tamil Nadu, India
 
 ---
@@ -27,33 +28,32 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**DSA** — LeetCode · [rampriya001](https://leetcode.com/rampriya001) 
-· Blind 75 in progress
 ---
 
-### 🚀 Open Source Contributions
+### 🚀 Open Source Contributions (GSSoC 2026)
 | Project | Contribution | Points |
 |---------|-------------|--------|
-| [Eventra](https://github.com/SandeepVashishtha/Eventra) | Removed production console.logs leaking API URLs | +92 |
-| [Eventra](https://github.com/SandeepVashishtha/Eventra) | Fixed placeholder href="#" links across 3 components | +92 |
-| [Eventra](https://github.com/SandeepVashishtha/Eventra) | Fixed event filter showing wrong status | +74 |
-| [Eventra](https://github.com/SandeepVashishtha/Eventra) | Fixed chatbot mobile viewport overflow | +74 |
-| [Eventra](https://github.com/SandeepVashishtha/Eventra) | Added Feature/theme toggle and improve UI consistency across components | +94 |
-| [Eventra](https://github.com/SandeepVashishtha/Eventra) | fixed Allow single-character last names and improve validation | +156 |
+| Eventra | Removed production console.logs leaking API URLs | +92 |
+| Eventra | Fixed placeholder href="#" links across 3 components | +92 |
+| Eventra | Fixed event filter showing wrong status | +74 |
+| Eventra | Fixed chatbot mobile viewport overflow | +74 |
+| Eventra | Added theme toggle & UI consistency across components | +94 |
+| Eventra | Allow single-character last names & improve validation | +156 |
 
-**GSSoC 2026 — Rank #590 | Top 2% | 332+ contribution points**
+**Total: 332+ contribution points**
 
 ---
 
 ### 🏆 Achievements
 - 🥇 GSSoC 2026 — Top 2% among 41,016 participants
 - 🌟 Google Student Ambassador 2026 (Gemini Program)
+- ☁️ AWS Student Builder Group Leader
 - 💜 Women Techmakers Member
-- 📊 Contributed Tamil NLP dataset to HuggingFace (TamilThagaval)
+- 📊 Tamil NLP dataset contributor — HuggingFace
 
 ---
-## DSA Practice
 
+### 📊 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rampriya001?theme=light&font=DM_Sans&ext=contest)
 
 ---
